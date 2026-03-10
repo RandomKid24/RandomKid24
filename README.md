@@ -1,95 +1,160 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8f8f8,100:e8e8e8&height=120&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f0f0f0,100:d0d0d0&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
 <br/>
 
 ```
-r a n d o m k i d 2 4
+Y O U R   N A M E
 ```
 
-<h3>frontend dev · powered by AI</h3>
+<br/>
+
+**`Frontend Developer`** &nbsp;·&nbsp; **`UI Craftsman`** &nbsp;·&nbsp; **`Design Systems`**
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=14&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=435&lines=building+interfaces+that+feel+inevitable.;ai+is+just+another+tool+in+the+kit.;ship+it.+iterate.+repeat.)
+<a href="mailto:you@email.com">
+  <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/yourhandle">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://yourportfolio.dev">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://twitter.com/yourhandle">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white"/>
+</a>
 
-<br/>
-<br/>
+<br/><br/>
 
 ---
 
-### &nbsp; what i do
+<br/>
 
+## &nbsp; about
+
+<br/>
+
+```yaml
+location:    Your City, Country
+focus:       Pixel-perfect interfaces & delightful UX
+philosophy:  Design is how it works, not just how it looks
+currently:   Building something new ✦
+open_to:     Freelance · Collaboration · Full-time
 ```
-design  →  build  →  ship
-```
-
-Crafting clean, minimal UI with the leverage of modern AI tools.  
-Less friction. More flow. Better products — faster.
-
-<br/>
-
----
-
-### &nbsp; stack
-
-<br/>
-
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white)
-
-<br/>
-
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-%23000000.svg?style=flat-square&logo=cursor&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/Copilot-%23000000.svg?style=flat-square&logo=github&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-AI-%23CC785C.svg?style=flat-square)
-![v0](https://img.shields.io/badge/v0-%23000000.svg?style=flat-square)
 
 <br/>
 
 ---
 
-### &nbsp; stats
+<br/>
+
+## &nbsp; craft
 
 <br/>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=randomkid24&show_icons=true&theme=graywhite&hide_border=true&title_color=111111&text_color=555555&icon_color=999999&bg_color=fafafa" />
+**Languages**
+
+![HTML](https://img.shields.io/badge/HTML-000?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-000?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=white)
+
+**Frameworks & Tools**
+
+![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer-000?style=flat-square&logo=framer&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000?style=flat-square&logo=figma&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-000?style=flat-square&logo=greensock&logoColor=white)
+
+<br/>
+
+---
+
+<br/>
+
+## &nbsp; selected work
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[↗ Project One](https://github.com/yourname/project-one)**
+
+A short, punchy description of what this does and why it matters. Keep it one or two lines.
+
+`React` `TypeScript` `Tailwind`
+
+</td>
+<td width="50%" valign="top">
+
+**[↗ Project Two](https://github.com/yourname/project-two)**
+
+A short, punchy description of what this does and why it matters. Keep it one or two lines.
+
+`Next.js` `Framer Motion` `Figma`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[↗ Project Three](https://github.com/yourname/project-three)**
+
+A short, punchy description of what this does and why it matters. Keep it one or two lines.
+
+`CSS` `GSAP` `JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+**[↗ Project Four](https://github.com/yourname/project-four)**
+
+A short, punchy description of what this does and why it matters. Keep it one or two lines.
+
+`React` `Node.js` `Postgres`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+## &nbsp; metrics
+
+<br/>
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=graywhite&hide_border=true&title_color=000000&text_color=555555&icon_color=000000&bg_color=fafafa&count_private=true"/>
 &nbsp;&nbsp;
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randomkid24&layout=compact&theme=graywhite&hide_border=true&title_color=111111&text_color=555555&bg_color=fafafa" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=graywhite&hide_border=true&title_color=000000&text_color=555555&bg_color=fafafa"/>
 
-<br/>
-<br/>
+<br/><br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=randomkid24&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=bbbbbb&fire=999999&currStreakLabel=555555)
-
-<br/>
-
----
-
-### &nbsp; philosophy
-
-> *"Use every tool available. Ship beautiful things. Don't overthink it."*
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&bg_color=fafafa&color=555555&line=000000&point=000000&area=true&hide_border=true" width="100%"/>
 
 <br/>
 
 ---
 
-### &nbsp; find me
+<br/>
+
+> *"Simplicity is the ultimate sophistication."*
 
 <br/>
 
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/randomkid24)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/randomkid24)
-[![Portfolio](https://img.shields.io/badge/portfolio-%23111111.svg?style=flat-square&logo=vercel&logoColor=white)](https://randomkid24.vercel.app)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8e8e8,100:f8f8f8&height=100&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d0d0d0,100:f0f0f0&height=80&section=footer" width="100%"/>
 
 </div>
