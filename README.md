@@ -1,135 +1,95 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:2d2d2d&height=160&section=header&text=Aditya%20Badgujar&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8f8f8,100:e8e8e8&height=120&section=header&animation=fadeIn" width="100%"/>
 
 <br/>
 
-```bash
-system-builder | full-stack developer | product engineer
+```
+r a n d o m k i d 2 4
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1200&color=9CA3AF&center=true&vCenter=true&width=520&lines=building+internal+business+systems;creating+custom+cms+platforms;automation+for+real+companies;shipping+software+that+removes+friction" />
+<h3>frontend dev · powered by AI</h3>
 
-</div>
+<br/>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=14&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=435&lines=building+interfaces+that+feel+inevitable.;ai+is+just+another+tool+in+the+kit.;ship+it.+iterate.+repeat.)
+
+<br/>
+<br/>
 
 ---
 
-# what i build
+### &nbsp; what i do
 
-```text
-idea → system → scale
+```
+design  →  build  →  ship
 ```
 
-I build **software systems that run businesses**.
+Crafting clean, minimal UI with the leverage of modern AI tools.  
+Less friction. More flow. Better products — faster.
 
-Things I enjoy working on:
-
-• internal business operating systems
-• custom CMS platforms
-• workflow automation
-• performance optimization
-• scalable backend systems
+<br/>
 
 ---
 
-# current projects
+### &nbsp; stack
 
-### Nook
+<br/>
 
-Internal **business operating system**
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white)
 
-features
+<br/>
 
-* project management
-* spreadsheet-style finance sheets
-* internal chat
-* CMS
-* permission systems
-* automation tools
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-%23000000.svg?style=flat-square&logo=cursor&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/Copilot-%23000000.svg?style=flat-square&logo=github&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-AI-%23CC785C.svg?style=flat-square)
+![v0](https://img.shields.io/badge/v0-%23000000.svg?style=flat-square)
 
----
-
-### Aureole Platforms
-
-systems built for the Aureole ecosystem
-
-* pharma equipment product websites
-* product catalog CMS
-* QR based digital contact system
-* marketing infrastructure
+<br/>
 
 ---
 
-# tech stack
+### &nbsp; stats
 
-### languages
+<br/>
 
-![JavaScript](https://img.shields.io/badge/javascript-111111?style=for-the-badge\&logo=javascript)
-![TypeScript](https://img.shields.io/badge/typescript-111111?style=for-the-badge\&logo=typescript)
-![Python](https://img.shields.io/badge/python-111111?style=for-the-badge\&logo=python)
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=randomkid24&show_icons=true&theme=graywhite&hide_border=true&title_color=111111&text_color=555555&icon_color=999999&bg_color=fafafa" />
+&nbsp;&nbsp;
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randomkid24&layout=compact&theme=graywhite&hide_border=true&title_color=111111&text_color=555555&bg_color=fafafa" />
 
-### frontend
+<br/>
+<br/>
 
-![React](https://img.shields.io/badge/react-111111?style=for-the-badge\&logo=react)
-![NextJS](https://img.shields.io/badge/next.js-111111?style=for-the-badge\&logo=next.js)
-![Tailwind](https://img.shields.io/badge/tailwind-111111?style=for-the-badge\&logo=tailwind-css)
+![GitHub Streak](https://streak-stats.demolab.com?user=randomkid24&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=bbbbbb&fire=999999&currStreakLabel=555555)
 
-### backend
-
-![NodeJS](https://img.shields.io/badge/node.js-111111?style=for-the-badge\&logo=node.js)
-![Firebase](https://img.shields.io/badge/firebase-111111?style=for-the-badge\&logo=firebase)
-
-### database
-
-![PostgreSQL](https://img.shields.io/badge/postgresql-111111?style=for-the-badge\&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/mongodb-111111?style=for-the-badge\&logo=mongodb)
+<br/>
 
 ---
 
-# github stats
+### &nbsp; philosophy
 
-<p align="center">
+> *"Use every tool available. Ship beautiful things. Don't overthink it."*
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=9ca3af"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=9ca3af"/>
-
-</p>
+<br/>
 
 ---
 
-# activity graph
+### &nbsp; find me
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true"/>
-</p>
+<br/>
 
----
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/randomkid24)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/randomkid24)
+[![Portfolio](https://img.shields.io/badge/portfolio-%23111111.svg?style=flat-square&logo=vercel&logoColor=white)](https://randomkid24.vercel.app)
 
-# streak
+<br/>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true"/>
-</p>
-
----
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake.svg)
----
-
-# philosophy
-
-> build tools that remove friction from real work
-
----
-
-# connect
-
-[![GitHub](https://img.shields.io/badge/github-111111?style=for-the-badge\&logo=github)](https://github.com/YOUR_USERNAME)
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d2d2d,100:111111&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8e8e8,100:f8f8f8&height=100&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
