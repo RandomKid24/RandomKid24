@@ -1,116 +1,133 @@
-<h1 align="center">Hi 👋, I'm Aditya Badgujar</h1>
-<h3 align="center">Full Stack Developer • System Builder • Problem Solver</h3>
+<div align="center">
 
-<p align="center">
-Building scalable platforms, internal tools and automation systems.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:2d2d2d&height=160&section=header&text=Aditya%20Badgujar&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
 
----
+<br/>
 
-# ⚡ About Me
+```bash
+system-builder | full-stack developer | product engineer
+```
 
-- 🚀 Building **Nook – an internal business OS**
-- 🏗 Creating **scalable CMS & SaaS platforms**
-- 💡 Love building **automation tools & systems**
-- 🌍 Focused on **real-world business solutions**
-- ⚙️ Interested in **system architecture & performance**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1200&color=9CA3AF&center=true&vCenter=true&width=520&lines=building+internal+business+systems;creating+custom+cms+platforms;automation+for+real+companies;shipping+software+that+removes+friction" />
+
+</div>
 
 ---
 
-# 🧠 Tech Stack
+# what i build
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+```text
+idea → system → scale
+```
 
-### Frontend
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss)
+I build **software systems that run businesses**.
 
-### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)
+Things I enjoy working on:
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/Postgres-black?style=for-the-badge&logo=postgresql)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+• internal business operating systems
+• custom CMS platforms
+• workflow automation
+• performance optimization
+• scalable backend systems
 
 ---
 
-# 📊 GitHub Stats
+# current projects
 
-<p align="center">
+### Nook
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+Internal **business operating system**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+features
 
-</p>
-
----
-
-# 🔥 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-</p>
+* project management
+* spreadsheet-style finance sheets
+* internal chat
+* CMS
+* permission systems
+* automation tools
 
 ---
 
-# 🏆 Achievements
+### Aureole Platforms
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6"/>
-</p>
+systems built for the Aureole ecosystem
 
----
-
-# 📌 Featured Projects
-
-### 🚀 Nook
-Internal Business Operating System with:
-- Project management
-- Finance sheets
-- Internal chat
-- CMS
-- Automation
-
-### 🌐 Aureole Platform
-Custom platform for managing:
-- Pharma equipment catalog
-- Marketing systems
-- Digital business operations
+* pharma equipment product websites
+* product catalog CMS
+* QR based digital contact system
+* marketing infrastructure
 
 ---
 
-# 📫 Connect With Me
+# tech stack
+
+### languages
+
+![JavaScript](https://img.shields.io/badge/javascript-111111?style=for-the-badge\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/typescript-111111?style=for-the-badge\&logo=typescript)
+![Python](https://img.shields.io/badge/python-111111?style=for-the-badge\&logo=python)
+
+### frontend
+
+![React](https://img.shields.io/badge/react-111111?style=for-the-badge\&logo=react)
+![NextJS](https://img.shields.io/badge/next.js-111111?style=for-the-badge\&logo=next.js)
+![Tailwind](https://img.shields.io/badge/tailwind-111111?style=for-the-badge\&logo=tailwind-css)
+
+### backend
+
+![NodeJS](https://img.shields.io/badge/node.js-111111?style=for-the-badge\&logo=node.js)
+![Firebase](https://img.shields.io/badge/firebase-111111?style=for-the-badge\&logo=firebase)
+
+### database
+
+![PostgreSQL](https://img.shields.io/badge/postgresql-111111?style=for-the-badge\&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/mongodb-111111?style=for-the-badge\&logo=mongodb)
+
+---
+
+# github stats
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-</a>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=9ca3af"/>
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:you@email.com">
-<img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail"/>
-</a>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=9ca3af"/>
 
 </p>
 
 ---
 
+# activity graph
+
 <p align="center">
-⚡ Building tools that make businesses run faster
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true"/>
 </p>
+
+---
+
+# streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true"/>
+</p>
+
+---
+
+# philosophy
+
+> build tools that remove friction from real work
+
+---
+
+# connect
+
+[![GitHub](https://img.shields.io/badge/github-111111?style=for-the-badge\&logo=github)](https://github.com/YOUR_USERNAME)
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d2d2d,100:111111&height=140&section=footer"/>
+
+</div>
