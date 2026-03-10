@@ -49,12 +49,11 @@
 </div>
 
 ```yaml
-name:        Your Name
-location:    Your City, Country 🌍
+name:        Aditya Badgujar 
+location:    Nashik, Maharastra 🌍
 focus:       Pixel-perfect interfaces & delightful UX
 philosophy:  Design is how it works, not just how it looks
 currently:   ✦ Building something new & exciting
-open_to:     Freelance · Collaboration · Full-time roles
 ```
 
 ---
