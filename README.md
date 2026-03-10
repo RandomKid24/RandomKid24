@@ -1,95 +1,116 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Aditya Badgujar</h1>
+<h3 align="center">Full Stack Developer • System Builder • Problem Solver</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8f8f8,100:e8e8e8&height=120&section=header&animation=fadeIn" width="100%"/>
-
-<br/>
-
-```
-r a n d o m k i d 2 4
-```
-
-<h3>frontend dev · powered by AI</h3>
-
-<br/>
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=14&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=435&lines=building+interfaces+that+feel+inevitable.;ai+is+just+another+tool+in+the+kit.;ship+it.+iterate.+repeat.)
-
-<br/>
-<br/>
+<p align="center">
+Building scalable platforms, internal tools and automation systems.
+</p>
 
 ---
 
-### &nbsp; what i do
+# ⚡ About Me
 
-```
-design  →  build  →  ship
-```
-
-Crafting clean, minimal UI with the leverage of modern AI tools.  
-Less friction. More flow. Better products — faster.
-
-<br/>
+- 🚀 Building **Nook – an internal business OS**
+- 🏗 Creating **scalable CMS & SaaS platforms**
+- 💡 Love building **automation tools & systems**
+- 🌍 Focused on **real-world business solutions**
+- ⚙️ Interested in **system architecture & performance**
 
 ---
 
-### &nbsp; stack
+# 🧠 Tech Stack
 
-<br/>
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
 
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white)
+### Frontend
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss)
 
-<br/>
+### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)
 
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-%23000000.svg?style=flat-square&logo=cursor&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/Copilot-%23000000.svg?style=flat-square&logo=github&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-AI-%23CC785C.svg?style=flat-square)
-![v0](https://img.shields.io/badge/v0-%23000000.svg?style=flat-square)
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/Postgres-black?style=for-the-badge&logo=postgresql)
 
-<br/>
-
----
-
-### &nbsp; stats
-
-<br/>
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=randomkid24&show_icons=true&theme=graywhite&hide_border=true&title_color=111111&text_color=555555&icon_color=999999&bg_color=fafafa" />
-&nbsp;&nbsp;
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randomkid24&layout=compact&theme=graywhite&hide_border=true&title_color=111111&text_color=555555&bg_color=fafafa" />
-
-<br/>
-<br/>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=randomkid24&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=bbbbbb&fire=999999&currStreakLabel=555555)
-
-<br/>
+### Tools
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 
 ---
 
-### &nbsp; philosophy
+# 📊 GitHub Stats
 
-> *"Use every tool available. Ship beautiful things. Don't overthink it."*
+<p align="center">
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-### &nbsp; find me
+# 🔥 Contribution Graph
 
-<br/>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+</p>
 
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/randomkid24)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/randomkid24)
-[![Portfolio](https://img.shields.io/badge/portfolio-%23111111.svg?style=flat-square&logo=vercel&logoColor=white)](https://randomkid24.vercel.app)
+---
 
-<br/>
+# 🏆 Achievements
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8e8e8,100:f8f8f8&height=100&section=footer&animation=fadeIn" width="100%"/>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6"/>
+</p>
 
-</div>
+---
+
+# 📌 Featured Projects
+
+### 🚀 Nook
+Internal Business Operating System with:
+- Project management
+- Finance sheets
+- Internal chat
+- CMS
+- Automation
+
+### 🌐 Aureole Platform
+Custom platform for managing:
+- Pharma equipment catalog
+- Marketing systems
+- Digital business operations
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:you@email.com">
+<img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+⚡ Building tools that make businesses run faster
+</p>
