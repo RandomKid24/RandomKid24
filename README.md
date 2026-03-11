@@ -1,210 +1,181 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  ADITYA BADGUJAR · GITHUB PROFILE             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--            ADITYA BADGUJAR  ·  GITHUB PROFILE README         -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ── ANIMATED HEADER ── -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Aditya%20Badgujar&fontSize=65&color=0:7DF9C4,50:A78BFA,100:F472B6&fontColor=fff&fontAlignY=52&animation=fadeIn&desc=Frontend%20Developer%20%E2%80%A2%20UI%20Engineer%20%E2%80%A2%20Design%20Systems&descAlignY=72&descSize=15&descColor=ffffff88&stroke=ffffff11&strokeWidth=1" width="100%"/>
-
-<br/>
-
-<!-- ── TYPING SVG ── -->
-<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=400&size=17&duration=2800&pause=900&color=7DF9C4&center=true&vCenter=true&repeat=true&width=540&lines=Frontend+Developer+%E2%9C%A6+UI+Engineer;I+turn+interfaces+into+experiences;Pixel-perfect+%7C+Performant+%7C+Purposeful;Based+in+Nashik%2C+India+%F0%9F%87%AE%F0%9F%87%B3;Currently+crafting+something+beautiful...;Open+to+work+%E2%80%94+let%27s+build+together." alt="Typing SVG"/>
-
-<br/><br/>
-
-<!-- ── STATUS + VIEWS ── -->
-![Open to Work](https://img.shields.io/badge/✦_Available_for_Freelance_&_Full--time-111118?style=for-the-badge&labelColor=111118&color=111118&logoColor=7DF9C4)
-&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=AdityaBadgujar&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS&labelColor=0a0a0f)
-
-<br/><br/>
-
-<!-- ── SOCIAL PILLS ── -->
-<a href="mailto:aditya@email.com">
-  <img src="https://img.shields.io/badge/✉%20Email-111118?style=flat-square&logoColor=7DF9C4&labelColor=111118&color=111118"/>
-</a>&ensp;
-<a href="https://linkedin.com/in/adityabadgujar">
-  <img src="https://img.shields.io/badge/in%20LinkedIn-111118?style=flat-square&logo=linkedin&logoColor=A78BFA&labelColor=111118&color=111118"/>
-</a>&ensp;
-<a href="https://adityabadgujar.dev">
-  <img src="https://img.shields.io/badge/▲%20Portfolio-111118?style=flat-square&logo=vercel&logoColor=F472B6&labelColor=111118&color=111118"/>
-</a>&ensp;
-<a href="https://twitter.com/adityabadgujar">
-  <img src="https://img.shields.io/badge/𝕏%20Twitter-111118?style=flat-square&logo=x&logoColor=7DF9C4&labelColor=111118&color=111118"/>
-</a>&ensp;
-<a href="#">
-  <img src="https://img.shields.io/badge/↓%20Resume-111118?style=flat-square&logoColor=A78BFA&labelColor=111118&color=111118"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=240&text=Aditya%20Badgujar&fontSize=68&color=0:7DF9C4,50:A78BFA,100:F472B6&fontColor=ffffff&fontAlignY=50&animation=fadeIn&desc=Frontend%20Developer%20%E2%80%A2%20UI%20Engineer%20%E2%80%A2%20Founder%20%40%20BeForth&descAlignY=68&descSize=16&descColor=ffffff77" width="100%"/>
 
 </div>
 
 <br/>
 
----
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=1000&color=7DF9C4&center=true&vCenter=true&repeat=true&width=620&lines=Hey+there!+I'm+Aditya+%F0%9F%91%8B;Frontend+Developer+%26+UI+Engineer;Founder+of+BeForth+%F0%9F%9A%80;Turning+paper+businesses+digital;Building+beautiful+interfaces+daily;Based+in+Nashik%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+
+</div>
 
 <br/>
-
-<!-- ══════════════════════════════════════════════════════ -->
-<!--                       ABOUT                          -->
-<!-- ══════════════════════════════════════════════════════ -->
-
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaBadgujar&layout=donut&theme=transparent&hide_border=true&title_color=7DF9C4&text_color=888899&bg_color=00000000&langs_count=6" alt="top langs"/>
-
-### `{ about_me }`
-
-```yaml
-👤  name:        Aditya Badgujar
-📍  location:    Nashik, Maharashtra, India
-🎯  role:        Frontend Developer & UI Engineer
-🔭  focus:       Pixel-perfect UIs · Delightful UX
-💡  philosophy:  Design is how it works, not just
-                 how it looks
-🚀  currently:   ✦ Crafting something new & exciting
-🤝  open_to:     Freelance · Collab · Full-time
-⚡  fun_fact:    I obsess over spacing & typography
-```
-
-<br clear="right"/>
-
-<br/>
-
----
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════ -->
-<!--                    TECH STACK                        -->
-<!-- ══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### `{ tech_stack }`
+![Founder](https://img.shields.io/badge/🚀%20Founder%20@%20BeForth-0d0d14?style=for-the-badge&labelColor=0d0d14)&nbsp;![Open to Work](https://img.shields.io/badge/✦%20Open%20to%20Work-0d0d14?style=for-the-badge&labelColor=111118&color=111118)&nbsp;![Location](https://img.shields.io/badge/📍%20Nashik%2C%20India-0d0d14?style=for-the-badge&labelColor=0d0d14)
 
 <br/>
 
-**— Core Languages —**
+[![Email](https://img.shields.io/badge/Email-0d0d14?style=flat-square&logo=gmail&logoColor=7DF9C4)](mailto:aditya@beforth.in)&ensp;[![BeForth](https://img.shields.io/badge/BeForth.in-0d0d14?style=flat-square&logo=vercel&logoColor=F472B6)](https://beforth.in)&ensp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d14?style=flat-square&logo=linkedin&logoColor=A78BFA)](https://linkedin.com/in/adityabadgujar)&ensp;[![Portfolio](https://img.shields.io/badge/Portfolio-0d0d14?style=flat-square&logo=vercel&logoColor=7DF9C4)](https://adityabadgujar.dev)&ensp;[![Twitter](https://img.shields.io/badge/Twitter-0d0d14?style=flat-square&logo=x&logoColor=F472B6)](https://twitter.com/adityabadgujar)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=AdityaBadgujar&style=flat-square&color=7DF9C4&label=Profile+Views&labelColor=0d0d14)
+
+</div>
+
+---
+
+## 🚀 &nbsp; BeForth — My Startup
+
+<img align="right" width="42%" src="https://capsule-render.vercel.app/api?type=rect&height=130&text=BeForth&fontSize=42&color=0:0d0d14,100:111118&fontColor=7DF9C4&fontAlignY=45&desc=beforth.in&descSize=14&descColor=A78BFA&descAlignY=72&animation=fadeIn"/>
+
+**Transforming Paper-Based Businesses Into Digital Systems**
+
+I founded **[BeForth](https://beforth.in)** to solve a real problem — millions of Indian SMBs still run on paper registers, manual billing, and spreadsheets. BeForth bridges that gap with modern, easy-to-use digital tools built for Bharat.
+
+- 🌐 &nbsp; **Website** — [beforth.in](https://beforth.in)
+- 🎯 &nbsp; **Mission** — Digitise traditional businesses, simply
+- 🏗️ &nbsp; **Status** — Actively building & growing
+- 📍 &nbsp; **HQ** — Nashik, Maharashtra, India
+
+<br clear="right"/>
+
+---
+
+## 👤 &nbsp; About Me
+
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaBadgujar&layout=donut&theme=transparent&hide_border=true&title_color=7DF9C4&text_color=888899&bg_color=00000000&langs_count=7"/>
+
+I'm a **Frontend Developer & UI Engineer** from Nashik, India who obsesses over the details — spacing, transitions, typography, performance. I believe great UI is invisible: it just *feels* right.
+
+- 🎨 &nbsp; I craft pixel-perfect interfaces with soul
+- ⚡ &nbsp; React, Next.js, Tailwind, Framer Motion
+- 🌀 &nbsp; GSAP & Three.js for the wow-factor
+- 🧠 &nbsp; Design Systems & Component Architecture
+- 🤝 &nbsp; Open to freelance, collab & full-time
+
+<br clear="right"/>
+
+---
+
+## 🛠 &nbsp; Tech Stack
+
+<div align="center">
+
+**Languages**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d0d14?style=for-the-badge&logo=typescript&logoColor=7DF9C4&labelColor=0d0d14)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d0d14?style=for-the-badge&logo=javascript&logoColor=A78BFA&labelColor=0d0d14)
 ![HTML5](https://img.shields.io/badge/HTML5-0d0d14?style=for-the-badge&logo=html5&logoColor=F472B6&labelColor=0d0d14)
 ![CSS3](https://img.shields.io/badge/CSS3-0d0d14?style=for-the-badge&logo=css3&logoColor=7DF9C4&labelColor=0d0d14)
 
-**— Frameworks & UI —**
+**Frameworks & Animation**
 
 ![React](https://img.shields.io/badge/React-0d0d14?style=for-the-badge&logo=react&logoColor=7DF9C4&labelColor=0d0d14)
 ![Next.js](https://img.shields.io/badge/Next.js-0d0d14?style=for-the-badge&logo=next.js&logoColor=A78BFA&labelColor=0d0d14)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d0d14?style=for-the-badge&logo=tailwindcss&logoColor=F472B6&labelColor=0d0d14)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0d0d14?style=for-the-badge&logo=framer&logoColor=7DF9C4&labelColor=0d0d14)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0d0d14?style=for-the-badge&logo=tailwindcss&logoColor=F472B6&labelColor=0d0d14)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0d0d14?style=for-the-badge&logo=framer&logoColor=7DF9C4&labelColor=0d0d14)
 ![GSAP](https://img.shields.io/badge/GSAP-0d0d14?style=for-the-badge&logo=greensock&logoColor=A78BFA&labelColor=0d0d14)
 ![Three.js](https://img.shields.io/badge/Three.js-0d0d14?style=for-the-badge&logo=three.js&logoColor=F472B6&labelColor=0d0d14)
 
-**— Tools & Workflow —**
+**Tools & Ecosystem**
 
 ![Figma](https://img.shields.io/badge/Figma-0d0d14?style=for-the-badge&logo=figma&logoColor=7DF9C4&labelColor=0d0d14)
-![Storybook](https://img.shields.io/badge/Storybook-0d0d14?style=for-the-badge&logo=storybook&logoColor=A78BFA&labelColor=0d0d14)
-![Vercel](https://img.shields.io/badge/Vercel-0d0d14?style=for-the-badge&logo=vercel&logoColor=F472B6&labelColor=0d0d14)
-![Git](https://img.shields.io/badge/Git-0d0d14?style=for-the-badge&logo=git&logoColor=7DF9C4&labelColor=0d0d14)
 ![Node.js](https://img.shields.io/badge/Node.js-0d0d14?style=for-the-badge&logo=node.js&logoColor=A78BFA&labelColor=0d0d14)
-![VS Code](https://img.shields.io/badge/VS_Code-0d0d14?style=for-the-badge&logo=visualstudiocode&logoColor=F472B6&labelColor=0d0d14)
+![Git](https://img.shields.io/badge/Git-0d0d14?style=for-the-badge&logo=git&logoColor=F472B6&labelColor=0d0d14)
+![Vercel](https://img.shields.io/badge/Vercel-0d0d14?style=for-the-badge&logo=vercel&logoColor=7DF9C4&labelColor=0d0d14)
+![Storybook](https://img.shields.io/badge/Storybook-0d0d14?style=for-the-badge&logo=storybook&logoColor=A78BFA&labelColor=0d0d14)
+![VS Code](https://img.shields.io/badge/VS%20Code-0d0d14?style=for-the-badge&logo=visualstudiocode&logoColor=F472B6&labelColor=0d0d14)
 
 </div>
-
-<br/>
 
 ---
 
-<br/>
-
-<!-- ══════════════════════════════════════════════════════ -->
-<!--                   SELECTED WORK                      -->
-<!-- ══════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### `{ selected_work }`
-
-</div>
-
-<br/>
+## 💼 &nbsp; Selected Work
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top"><br/>
+<td width="50%" valign="top">
+<br/>
 
-**[↗ &nbsp; Project Alpha](https://github.com/AdityaBadgujar/project-alpha)** &nbsp; <sup>`Design System`</sup>
+**[↗ BeForth Platform](https://beforth.in)** &nbsp;`Startup`
 
-A beautifully crafted component library built for scale. Pixel-perfect with full WCAG accessibility, dark mode, and Storybook docs.
+My flagship product. A digital transformation platform helping traditional Indian SMBs ditch paper and go digital — billing, inventory, ops, all in one place.
 
-![React](https://img.shields.io/badge/-React-0d0d14?style=flat-square&logo=react&logoColor=7DF9C4)
+![Next.js](https://img.shields.io/badge/-Next.js-0d0d14?style=flat-square&logo=next.js&logoColor=7DF9C4)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0d0d14?style=flat-square&logo=typescript&logoColor=A78BFA)
-![Storybook](https://img.shields.io/badge/-Storybook-0d0d14?style=flat-square&logo=storybook&logoColor=F472B6)
+![Tailwind](https://img.shields.io/badge/-Tailwind-0d0d14?style=flat-square&logo=tailwindcss&logoColor=F472B6)
 
-<br/></td>
-<td width="50%" valign="top"><br/>
+<br/>
+</td>
+<td width="50%" valign="top">
+<br/>
 
-**[↗ &nbsp; Project Beta](https://github.com/AdityaBadgujar/project-beta)** &nbsp; <sup>`3D Experience`</sup>
+**[↗ Project Two](https://github.com/AdityaBadgujar)** &nbsp;`3D / WebGL`
 
-Immersive 3D landing page with WebGL shaders, physics-based spring animations, and scroll-driven storytelling.
+Immersive 3D landing experience with physics-based animations, custom WebGL shaders, and scroll-driven storytelling that leaves visitors speechless.
 
 ![Three.js](https://img.shields.io/badge/-Three.js-0d0d14?style=flat-square&logo=three.js&logoColor=7DF9C4)
 ![GSAP](https://img.shields.io/badge/-GSAP-0d0d14?style=flat-square&logo=greensock&logoColor=A78BFA)
 ![WebGL](https://img.shields.io/badge/-WebGL-0d0d14?style=flat-square&logoColor=F472B6)
 
-<br/></td>
+<br/>
+</td>
 </tr>
 <tr>
-<td width="50%" valign="top"><br/>
+<td width="50%" valign="top">
+<br/>
 
-**[↗ &nbsp; Project Gamma](https://github.com/AdityaBadgujar/project-gamma)** &nbsp; <sup>`Dashboard`</sup>
+**[↗ Project Three](https://github.com/AdityaBadgujar)** &nbsp;`Dashboard`
 
-Real-time analytics dashboard with live data viz, custom D3 charts, and buttery 60fps micro-interactions.
+Real-time analytics dashboard with live charts, custom D3 visualizations, and buttery-smooth 60fps micro-interactions throughout.
 
 ![Next.js](https://img.shields.io/badge/-Next.js-0d0d14?style=flat-square&logo=next.js&logoColor=7DF9C4)
 ![D3.js](https://img.shields.io/badge/-D3.js-0d0d14?style=flat-square&logo=d3.js&logoColor=A78BFA)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-0d0d14?style=flat-square&logo=tailwindcss&logoColor=F472B6)
 
-<br/></td>
-<td width="50%" valign="top"><br/>
+<br/>
+</td>
+<td width="50%" valign="top">
+<br/>
 
-**[↗ &nbsp; Project Delta](https://github.com/AdityaBadgujar/project-delta)** &nbsp; <sup>`SaaS Product`</sup>
+**[↗ Project Four](https://github.com/AdityaBadgujar)** &nbsp;`SaaS`
 
-Full-stack SaaS from zero — auth, billing, onboarding & dashboard. Designed, built, and shipped solo in 3 weeks.
+Full-stack SaaS built solo from scratch — auth, payments, onboarding, and dashboard. Zero to shipped in 3 weeks flat.
 
 ![Next.js](https://img.shields.io/badge/-Next.js-0d0d14?style=flat-square&logo=next.js&logoColor=7DF9C4)
 ![Prisma](https://img.shields.io/badge/-Prisma-0d0d14?style=flat-square&logo=prisma&logoColor=A78BFA)
 ![Stripe](https://img.shields.io/badge/-Stripe-0d0d14?style=flat-square&logo=stripe&logoColor=F472B6)
 
-<br/></td>
+<br/>
+</td>
 </tr>
 </table>
 
 <div align="center">
 
-[![View All Projects](https://img.shields.io/badge/↗%20View%20All%20Projects-0d0d14?style=for-the-badge&labelColor=0d0d14&color=0d0d14&logoColor=7DF9C4)](https://github.com/AdityaBadgujar?tab=repositories)
+[![All Projects](https://img.shields.io/badge/↗%20See%20All%20Projects-0d0d14?style=for-the-badge&labelColor=0d0d14&color=0d0d14)](https://github.com/AdityaBadgujar?tab=repositories)
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
-
-<!-- ══════════════════════════════════════════════════════ -->
-<!--                     METRICS                          -->
-<!-- ══════════════════════════════════════════════════════ -->
+## 📊 &nbsp; GitHub Stats
 
 <div align="center">
 
-### `{ metrics }`
-
-<br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AdityaBadgujar&show_icons=true&theme=transparent&hide_border=true&title_color=7DF9C4&text_color=888899&icon_color=A78BFA&bg_color=00000000&count_private=true&rank_icon=github&include_all_commits=true"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=AdityaBadgujar&show_icons=true&theme=transparent&hide_border=true&title_color=7DF9C4&text_color=888899&icon_color=A78BFA&bg_color=00000000&count_private=true&rank_icon=github&include_all_commits=true"/>
 &ensp;
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=AdityaBadgujar&theme=transparent&hide_border=true&ring=7DF9C4&fire=F472B6&currStreakLabel=A78BFA&sideLabels=888899&dates=444455&background=00000000&stroke=ffffff11&currStreakNum=ffffff&sideNums=ffffff"/>
+<img height="175" src="https://github-readme-streak-stats.herokuapp.com?user=AdityaBadgujar&theme=transparent&hide_border=true&ring=7DF9C4&fire=F472B6&currStreakLabel=A78BFA&sideLabels=888899&dates=444455&background=00000000&stroke=ffffff11&currStreakNum=ffffff&sideNums=ffffff"/>
 
 <br/><br/>
 
@@ -212,54 +183,42 @@ Full-stack SaaS from zero — auth, billing, onboarding & dashboard. Designed, b
 
 <br/>
 
-<!-- ── CONTRIBUTION SNAKE ── -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdityaBadgujar/AdityaBadgujar/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdityaBadgujar/AdityaBadgujar/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/AdityaBadgujar/AdityaBadgujar/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/AdityaBadgujar/AdityaBadgujar/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
-
-<!-- ══════════════════════════════════════════════════════ -->
-<!--                  GITHUB TROPHIES                     -->
-<!-- ══════════════════════════════════════════════════════ -->
+## 🏆 &nbsp; Achievements
 
 <div align="center">
 
-### `{ achievements }`
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AdityaBadgujar&theme=onestar&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="100%" alt="trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AdityaBadgujar&theme=onestar&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="100%"/>
 
 </div>
 
-<br/>
-
 ---
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════ -->
-<!--                   QUOTE + FOOTER                     -->
-<!-- ══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <br/>
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Design%20is%20not%20just%20what%20it%20looks%20like%20and%20feels%20like.%20Design%20is%20how%20it%20works.&author=Steve%20Jobs)
+*"The best way to predict the future is to build it."*
+
+<br/>
+
+**Want to collaborate or learn more about BeForth?**
+
+<br/>
+
+[![BeForth](https://img.shields.io/badge/🌐%20Visit%20beforth.in-0d0d14?style=for-the-badge&labelColor=0d0d14&color=0d0d14)](https://beforth.in)&nbsp;[![Email](https://img.shields.io/badge/✉%20aditya@beforth.in-0d0d14?style=for-the-badge&labelColor=0d0d14&color=0d0d14)](mailto:aditya@beforth.in)
 
 <br/><br/>
 
-<!-- ── WAVE FOOTER ── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:7DF9C4,50:A78BFA,100:F472B6&section=footer&animation=fadeIn&fontColor=ffffff88&fontSize=13&desc=Thanks%20for%20visiting%20%E2%9C%A6%20Let%27s%20build%20something%20great%20together&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7DF9C4,50:A78BFA,100:F472B6&section=footer&animation=fadeIn&text=Building%20BeForth%20%E2%80%94%20one%20commit%20at%20a%20time%20%E2%9C%A6&fontColor=ffffff44&fontSize=14&fontAlignY=65" width="100%"/>
 
 </div>
