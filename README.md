@@ -1,26 +1,18 @@
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--            ADITYA BADGUJAR  ·  GITHUB PROFILE README         -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--              ADITYA BADGUJAR  ·  GITHUB PROFILE                  -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=240&text=Aditya%20Badgujar&fontSize=68&color=0:7DF9C4,50:A78BFA,100:F472B6&fontColor=ffffff&fontAlignY=50&animation=fadeIn&desc=Frontend%20Developer%20%E2%80%A2%20UI%20Engineer%20%E2%80%A2%20Founder%20%40%20BeForth&descAlignY=68&descSize=16&descColor=ffffff77" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Aditya%20Badgujar&fontSize=70&color=0:7DF9C4,50:A78BFA,100:F472B6&fontColor=ffffff&fontAlignY=50&animation=fadeIn&desc=Frontend%20Developer%20%E2%80%A2%20UI%20Engineer%20%E2%80%A2%20Founder%20%40%20BeForth&descAlignY=68&descSize=16&descColor=ffffff77" width="100%"/>
 
 <br/>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=1000&color=7DF9C4&center=true&vCenter=true&repeat=true&width=640&lines=Hey+there!+I'm+Aditya+%F0%9F%91%8B;Frontend+Developer+%26+UI+Engineer;Founder+of+BeForth+%F0%9F%9A%80;Turning+paper+businesses+digital+%E2%9C%A6;Building+beautiful+interfaces+daily;Based+in+Nashik%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=1000&color=7DF9C4&center=true&vCenter=true&repeat=true&width=640&lines=Hey+there!+I'm+Aditya+%F0%9F%91%8B;Frontend+Developer+%26+UI+Engineer;Founder+of+BeForth+%F0%9F%9A%80;I+will+be+the+King+of+the+Pirates!+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F;Turning+paper+businesses+digital;My+code%2C+My+One+Piece+%E2%9A%93" alt="Typing SVG"/>
+<br/><br/>
 
-</div>
-
-<br/>
-
-<div align="center">
-
-![Founder](https://img.shields.io/badge/🚀%20Founder%20@%20BeForth-0d0d14?style=for-the-badge&labelColor=0d0d14)&nbsp;![Pirate](https://img.shields.io/badge/🏴‍☠️%20Future%20Pirate%20King-0d0d14?style=for-the-badge&labelColor=0d0d14)&nbsp;![Location](https://img.shields.io/badge/📍%20Nashik%2C%20India-0d0d14?style=for-the-badge&labelColor=0d0d14)
+![Founder](https://img.shields.io/badge/🚀%20Founder%20@%20BeForth-0d0d14?style=for-the-badge&labelColor=0d0d14)&nbsp;![Open to Work](https://img.shields.io/badge/✦%20Open%20to%20Work-0d0d14?style=for-the-badge&labelColor=0d0d14)&nbsp;![Location](https://img.shields.io/badge/📍%20Nashik%2C%20India-0d0d14?style=for-the-badge&labelColor=0d0d14)
 
 <br/>
 
@@ -34,60 +26,13 @@
 
 ---
 
-<div align="center">
+## 🚀 &nbsp; BeForth — My Startup
 
-> *"I don't want to conquer anything. I just think the guy with the most freedom in this whole ocean... is the Pirate King!"*
->
-> **— Monkey D. Luffy** &nbsp;🍖
-
-</div>
-
----
-
-## 🏴‍☠️ &nbsp; One Piece — My Nakama
-
-<div align="center">
-
-```
-⠀⠀⠀⠀⠀⠀ ⣀⣤⣶⣶⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣷⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⣠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⢰⣿⣿⡿⠋⠉⠙⢿⣿⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⣾⣿⣿⡇⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⢸⣿⣿⣿⡇⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀
-⠀⣿⣿⣿⣿⣿⣄⠀⠀⣠⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀
-⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀
-⠀⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀
-⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠙⠿⣿⣿⣿⣿⣿⣿⣿⠿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠈⠙⠛⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-
-  "The treasure exists!"  ⚓  — Gol D. Roger
-```
-
-</div>
-
-Just like Luffy built his crew from scratch to sail the Grand Line — I'm building **BeForth** from Nashik, sailing towards something big. My **nakama** in code:
-
-| Character | Trait | My Stack Equivalent |
-|-----------|-------|-------------------|
-| 🍖 **Luffy** | Never gives up, leads with heart | My drive & founder mindset |
-| ⚔️ **Zoro** | Precision, no shortcuts | TypeScript — strict & sharp |
-| 🍊 **Nami** | Strategy & navigation | Next.js — charting the path |
-| 🔥 **Ace** | Passion & fire | GSAP & Framer Motion animations |
-| 🏹 **Usopp** | Creativity & craft | Figma & UI design |
-| ⚙️ **Franky** | Builds the impossible | Three.js & WebGL |
-
----
-
-## 🚀 &nbsp; BeForth — My One Piece
-
-<img align="right" width="42%" src="https://capsule-render.vercel.app/api?type=rect&height=130&text=BeForth&fontSize=42&color=0:0d0d14,100:111118&fontColor=7DF9C4&fontAlignY=45&desc=beforth.in&descSize=14&descColor=A78BFA&descAlignY=72&animation=fadeIn"/>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd3bDVucjQxYmNxOWZvdHZhemZwb2ZkNnRteTdoYXN4ZnF0NnBoNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="220" alt="Luffy sailing"/>
 
 **Transforming Paper-Based Businesses Into Digital Systems**
 
-Just like the One Piece is the ultimate treasure, **BeForth** is mine — built from nothing, for a real purpose. Millions of Indian SMBs still run on paper. We're changing that.
+Founded **[BeForth](https://beforth.in)** to solve a real problem — millions of Indian SMBs still run on paper registers, manual billing, and spreadsheets. BeForth bridges that gap with modern, easy-to-use digital tools built for Bharat.
 
 - 🌐 &nbsp; **Website** — [beforth.in](https://beforth.in)
 - 🎯 &nbsp; **Mission** — Digitise traditional businesses, simply
@@ -100,15 +45,15 @@ Just like the One Piece is the ultimate treasure, **BeForth** is mine — built 
 
 ## 👤 &nbsp; About Me
 
-<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaBadgujar&layout=donut&theme=transparent&hide_border=true&title_color=7DF9C4&text_color=888899&bg_color=00000000&langs_count=7"/>
+<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaBadgujar&layout=donut&theme=transparent&hide_border=true&title_color=7DF9C4&text_color=888899&bg_color=00000000&langs_count=7"/>
 
 I'm a **Frontend Developer & UI Engineer** from Nashik, India who obsesses over details — spacing, transitions, typography, performance. I believe great UI is invisible: it just *feels* right.
 
-- 🎨 &nbsp; Pixel-perfect interfaces with soul
+- 🎨 &nbsp; Crafting pixel-perfect interfaces with soul
 - ⚡ &nbsp; React, Next.js, Tailwind, Framer Motion
 - 🌀 &nbsp; GSAP & Three.js for the wow-factor
 - 🧠 &nbsp; Design Systems & Component Architecture
-- 🏴‍☠️ &nbsp; One Piece marathoner & proud Mugiwara fan
+- 🏴‍☠️ &nbsp; One Piece fanatic — Luffy is my spirit animal
 - 🤝 &nbsp; Open to freelance, collab & full-time
 
 <br clear="right"/>
@@ -155,9 +100,9 @@ I'm a **Frontend Developer & UI Engineer** from Nashik, India who obsesses over 
 <td width="50%" valign="top">
 <br/>
 
-**[↗ BeForth Platform](https://beforth.in)** &nbsp;`Startup`
+**[↗ BeForth Platform](https://beforth.in)** &nbsp;`Startup · Flagship`
 
-My flagship product — a digital transformation platform helping traditional Indian SMBs ditch paper and go digital. Billing, inventory, ops. Built solo from scratch.
+My flagship product. A digital transformation platform helping traditional Indian SMBs ditch paper and go digital — billing, inventory, ops, all in one place. Built solo from scratch.
 
 ![Next.js](https://img.shields.io/badge/-Next.js-0d0d14?style=flat-square&logo=next.js&logoColor=7DF9C4)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0d0d14?style=flat-square&logo=typescript&logoColor=A78BFA)
@@ -170,7 +115,7 @@ My flagship product — a digital transformation platform helping traditional In
 
 **[↗ Project Two](https://github.com/AdityaBadgujar)** &nbsp;`3D / WebGL`
 
-Immersive 3D landing experience with physics-based animations, custom WebGL shaders, and scroll-driven storytelling.
+Immersive 3D landing experience with physics-based animations, custom WebGL shaders, and scroll-driven storytelling that leaves visitors speechless.
 
 ![Three.js](https://img.shields.io/badge/-Three.js-0d0d14?style=flat-square&logo=three.js&logoColor=7DF9C4)
 ![GSAP](https://img.shields.io/badge/-GSAP-0d0d14?style=flat-square&logo=greensock&logoColor=A78BFA)
@@ -185,7 +130,7 @@ Immersive 3D landing experience with physics-based animations, custom WebGL shad
 
 **[↗ Project Three](https://github.com/AdityaBadgujar)** &nbsp;`Dashboard`
 
-Real-time analytics dashboard with live charts, custom D3 visualizations, and buttery-smooth 60fps micro-interactions.
+Real-time analytics dashboard with live charts, custom D3 visualizations, and buttery-smooth 60fps micro-interactions throughout.
 
 ![Next.js](https://img.shields.io/badge/-Next.js-0d0d14?style=flat-square&logo=next.js&logoColor=7DF9C4)
 ![D3.js](https://img.shields.io/badge/-D3.js-0d0d14?style=flat-square&logo=d3.js&logoColor=A78BFA)
@@ -198,7 +143,7 @@ Real-time analytics dashboard with live charts, custom D3 visualizations, and bu
 
 **[↗ Project Four](https://github.com/AdityaBadgujar)** &nbsp;`SaaS`
 
-Full-stack SaaS built solo from scratch — auth, payments, onboarding, dashboard. Zero to shipped in 3 weeks.
+Full-stack SaaS built solo from scratch — auth, payments, onboarding, and dashboard. Zero to shipped in 3 weeks flat.
 
 ![Next.js](https://img.shields.io/badge/-Next.js-0d0d14?style=flat-square&logo=next.js&logoColor=7DF9C4)
 ![Prisma](https://img.shields.io/badge/-Prisma-0d0d14?style=flat-square&logo=prisma&logoColor=A78BFA)
@@ -251,16 +196,29 @@ Full-stack SaaS built solo from scratch — auth, payments, onboarding, dashboar
 
 ---
 
+## 🏴‍☠️ &nbsp; Off The Clock
+
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZhMzVkMWNkMGFkNjRlNmFmYzE5NmFhMzVmYjk2ZjM3ZTc1ZmI0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hS4Dz87diMd3IRSuhJ/giphy.gif" width="200" alt="Gear 5 Luffy"/>
+
+When I'm not pushing commits or building BeForth, you'll find me deep in the Grand Line.
+
+- 🍖 &nbsp; **One Piece** is my all-time favourite — currently rewatching Marineford arc
+- ⚓ &nbsp; Luffy's never-give-up spirit is genuinely how I approach building
+- 🎮 &nbsp; Occasionally games, always anime
+- ☕ &nbsp; Fuelled by chai and ambition
+
+> *"I don't want to conquer anything. I just think the guy with the most freedom in this whole ocean is the Pirate King!"*
+> — **Monkey D. Luffy** 🍖
+
+<br clear="right"/>
+
+---
+
 <div align="center">
 
 <br/>
 
-⚓ &nbsp; *"Inherited Will. The Destiny of the Age. The Dreams of its People.*
-*These are things that will not be stopped."* &nbsp; — **Whitebeard** &nbsp; ⚓
-
-<br/>
-
-**Want to join my crew? Let's build something legendary.**
+**Want to collaborate or learn more about BeForth?**
 
 <br/>
 
@@ -268,6 +226,6 @@ Full-stack SaaS built solo from scratch — auth, payments, onboarding, dashboar
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:7DF9C4,50:A78BFA,100:F472B6&section=footer&animation=fadeIn&text=I'm%20going%20to%20be%20King%20of%20the%20Pirates!%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F&fontColor=ffffff55&fontSize=15&fontAlignY=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:7DF9C4,50:A78BFA,100:F472B6&section=footer&animation=fadeIn&text=Building%20BeForth%20%E2%80%94%20one%20commit%20at%20a%20time%20%E2%9C%A6&fontColor=ffffff44&fontSize=14&fontAlignY=62" width="100%"/>
 
 </div>
