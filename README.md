@@ -15,8 +15,7 @@
 <br/><br/>
 
 <!-- ── STATUS + VIEWS ── -->
-<img src="https://img.shields.io/badge/%E2%9C%A6%20Open%20to%20Work-0a0a0f?style=for-the-badge&labelColor=0a0a0f&color=0a0a0f&logoColor=7DF9C4" alt=""/>
-![Open to Work](https://img.shields.io/badge/_%E2%80%94_Available_for_Freelance_%26_Full--time-7DF9C4?style=for-the-badge&labelColor=0a0a0f&color=111118)
+![Open to Work](https://img.shields.io/badge/✦_Available_for_Freelance_&_Full--time-111118?style=for-the-badge&labelColor=111118&color=111118&logoColor=7DF9C4)
 &nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=AdityaBadgujar&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS&labelColor=0a0a0f)
 
@@ -48,7 +47,7 @@
 <br/>
 
 <!-- ══════════════════════════════════════════════════════ -->
-<!--                     ABOUT                            -->
+<!--                       ABOUT                          -->
 <!-- ══════════════════════════════════════════════════════ -->
 
 <img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaBadgujar&layout=donut&theme=transparent&hide_border=true&title_color=7DF9C4&text_color=888899&bg_color=00000000&langs_count=6" alt="top langs"/>
@@ -132,11 +131,9 @@
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
-<br/>
+<td width="50%" valign="top"><br/>
 
-**[↗ &nbsp; Project Alpha](https://github.com/AdityaBadgujar/project-alpha)**
-&nbsp;&nbsp;<sup>`Design System`</sup>
+**[↗ &nbsp; Project Alpha](https://github.com/AdityaBadgujar/project-alpha)** &nbsp; <sup>`Design System`</sup>
 
 A beautifully crafted component library built for scale. Pixel-perfect with full WCAG accessibility, dark mode, and Storybook docs.
 
@@ -144,15 +141,10 @@ A beautifully crafted component library built for scale. Pixel-perfect with full
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0d0d14?style=flat-square&logo=typescript&logoColor=A78BFA)
 ![Storybook](https://img.shields.io/badge/-Storybook-0d0d14?style=flat-square&logo=storybook&logoColor=F472B6)
 
-⭐ `124` &nbsp; 🍴 `38` &nbsp; ![Live](https://img.shields.io/badge/Live-7DF9C4?style=flat-square&labelColor=0d0d14&color=0d0d14&logoColor=7DF9C4)
+<br/></td>
+<td width="50%" valign="top"><br/>
 
-<br/>
-</td>
-<td width="50%" valign="top">
-<br/>
-
-**[↗ &nbsp; Project Beta](https://github.com/AdityaBadgujar/project-beta)**
-&nbsp;&nbsp;<sup>`3D Experience`</sup>
+**[↗ &nbsp; Project Beta](https://github.com/AdityaBadgujar/project-beta)** &nbsp; <sup>`3D Experience`</sup>
 
 Immersive 3D landing page with WebGL shaders, physics-based spring animations, and scroll-driven storytelling.
 
@@ -160,17 +152,12 @@ Immersive 3D landing page with WebGL shaders, physics-based spring animations, a
 ![GSAP](https://img.shields.io/badge/-GSAP-0d0d14?style=flat-square&logo=greensock&logoColor=A78BFA)
 ![WebGL](https://img.shields.io/badge/-WebGL-0d0d14?style=flat-square&logoColor=F472B6)
 
-⭐ `89` &nbsp; 🍴 `22` &nbsp; ![Live](https://img.shields.io/badge/Live-7DF9C4?style=flat-square&labelColor=0d0d14&color=0d0d14&logoColor=7DF9C4)
-
-<br/>
-</td>
+<br/></td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<br/>
+<td width="50%" valign="top"><br/>
 
-**[↗ &nbsp; Project Gamma](https://github.com/AdityaBadgujar/project-gamma)**
-&nbsp;&nbsp;<sup>`Dashboard`</sup>
+**[↗ &nbsp; Project Gamma](https://github.com/AdityaBadgujar/project-gamma)** &nbsp; <sup>`Dashboard`</sup>
 
 Real-time analytics dashboard with live data viz, custom D3 charts, and buttery 60fps micro-interactions.
 
@@ -178,15 +165,10 @@ Real-time analytics dashboard with live data viz, custom D3 charts, and buttery 
 ![D3.js](https://img.shields.io/badge/-D3.js-0d0d14?style=flat-square&logo=d3.js&logoColor=A78BFA)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-0d0d14?style=flat-square&logo=tailwindcss&logoColor=F472B6)
 
-⭐ `67` &nbsp; 🍴 `14` &nbsp; ![Live](https://img.shields.io/badge/Live-7DF9C4?style=flat-square&labelColor=0d0d14&color=0d0d14&logoColor=7DF9C4)
+<br/></td>
+<td width="50%" valign="top"><br/>
 
-<br/>
-</td>
-<td width="50%" valign="top">
-<br/>
-
-**[↗ &nbsp; Project Delta](https://github.com/AdityaBadgujar/project-delta)**
-&nbsp;&nbsp;<sup>`SaaS Product`</sup>
+**[↗ &nbsp; Project Delta](https://github.com/AdityaBadgujar/project-delta)** &nbsp; <sup>`SaaS Product`</sup>
 
 Full-stack SaaS from zero — auth, billing, onboarding & dashboard. Designed, built, and shipped solo in 3 weeks.
 
@@ -194,10 +176,7 @@ Full-stack SaaS from zero — auth, billing, onboarding & dashboard. Designed, b
 ![Prisma](https://img.shields.io/badge/-Prisma-0d0d14?style=flat-square&logo=prisma&logoColor=A78BFA)
 ![Stripe](https://img.shields.io/badge/-Stripe-0d0d14?style=flat-square&logo=stripe&logoColor=F472B6)
 
-⭐ `201` &nbsp; 🍴 `55` &nbsp; ![Live](https://img.shields.io/badge/Live-7DF9C4?style=flat-square&labelColor=0d0d14&color=0d0d14&logoColor=7DF9C4)
-
-<br/>
-</td>
+<br/></td>
 </tr>
 </table>
 
@@ -278,35 +257,9 @@ Full-stack SaaS from zero — auth, billing, onboarding & dashboard. Designed, b
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Design%20is%20not%20just%20what%20it%20looks%20like%20and%20feels%20like.%20Design%20is%20how%20it%20works.&author=Steve%20Jobs)
 
-<br/>
+<br/><br/>
 
 <!-- ── WAVE FOOTER ── -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:7DF9C4,50:A78BFA,100:F472B6&section=footer&animation=fadeIn&fontColor=ffffff88&fontSize=13&desc=Thanks%20for%20visiting%20%E2%9C%A6%20Let%27s%20build%20something%20great%20together&descAlignY=65" width="100%"/>
 
 </div>
-
-<!-- ══════════════════════════════════════════════════════ -->
-<!--   SNAKE SETUP: Add this GitHub Action to your repo   -->
-<!--   Path: .github/workflows/snake.yml                  -->
-<!--                                                      -->
-<!--   name: Generate Snake                               -->
-<!--   on:                                                -->
-<!--     schedule: [{cron: "0 */12 * * *"}]              -->
-<!--     workflow_dispatch:                               -->
-<!--   jobs:                                              -->
-<!--     generate:                                        -->
-<!--       runs-on: ubuntu-latest                         -->
-<!--       steps:                                         -->
-<!--         - uses: Platane/snk@v3                       -->
-<!--           with:                                      -->
-<!--             github_user_name: AdityaBadgujar         -->
-<!--             outputs: |                               -->
-<!--               dist/snake.svg                         -->
-<!--               dist/snake-dark.svg?palette=github-dark-->
-<!--         - uses: crazy-max/ghaction-github-pages@v3   -->
-<!--           with:                                      -->
-<!--             target_branch: output                    -->
-<!--             build_dir: dist                          -->
-<!--           env:                                       -->
-<!--             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}-->
-<!-- ══════════════════════════════════════════════════════ -->
