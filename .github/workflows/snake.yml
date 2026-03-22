@@ -1,12 +1,8 @@
 name: 🐍 Generate Contribution Snake
-
 on:
-  # Runs automatically every 12 hours
   schedule:
     - cron: "0 */12 * * *"
-  # Lets you trigger it manually from the Actions tab
   workflow_dispatch:
-  # Also runs on every push to main
   push:
     branches:
       - main
@@ -16,7 +12,8 @@ jobs:
     name: Generate Snake Animation
     runs-on: ubuntu-latest
     timeout-minutes: 10
-
+    permissions:          # ← ADD THIS
+      contents: write     # ← AND THIS
     steps:
       - name: 🐍 Generate Snake (Light + Dark)
         uses: Platane/snk@v3
@@ -25,7 +22,6 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
       - name: 🚀 Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
