@@ -75,7 +75,7 @@ export const Aditya = {
 
 ## 🚀 &nbsp; BeForth — The Startup I'm Betting On
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd3bDVucjQxYmNxOWZvdHZhemZwb2ZkNnRteTdoYXN4ZnF0NnBoNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="200" alt="Luffy sailing"/>
+<img align="right" src="https://raw.githubusercontent.com/AdityaBadgujar/AdityaBadgujar/main/assets/luffy-sailing.gif" width="200" alt="Luffy sailing"/>
 
 Millions of Indian SMBs run on **paper registers, WhatsApp screenshots, and gut feeling.**
 
@@ -186,7 +186,7 @@ Auth, payments, onboarding, dashboard. Built solo, shipped in 3 weeks. A testame
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=AdityaBadgujar&show_icons=true&theme=transparent&hide_border=true&title_color=7DF9C4&text_color=888899&icon_color=A78BFA&bg_color=00000000&count_private=true&rank_icon=github&include_all_commits=true"/>
 &ensp;
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=AdityaBadgujar&theme=transparent&hide_border=true&ring=7DF9C4&fire=F472B6&currStreakLabel=A78BFA&sideLabels=888899&dates=444455&background=00000000&stroke=ffffff11&currStreakNum=ffffff&sideNums=ffffff"/>
+<img height="170" src="https://streak-stats.demolab.com?user=AdityaBadgujar&theme=transparent&hide_border=true&ring=7DF9C4&fire=F472B6&currStreakLabel=A78BFA&sideLabels=888899&dates=444455&background=00000000&stroke=ffffff11&currStreakNum=ffffff&sideNums=ffffff"/>
 
 <br/><br/>
 
@@ -211,14 +211,14 @@ Auth, payments, onboarding, dashboard. Built solo, shipped in 3 weeks. A testame
 ## 🏆 &nbsp; Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AdityaBadgujar&theme=onestar&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AdityaBadgujar&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" width="100%"/>
 </div>
 
 ---
 
 ## 🏴‍☠️ &nbsp; The Human Behind The Commits
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZhMzVkMWNkMGFkNjRlNmFmYzE5NmFhMzVmYjk2ZjM3ZTc1ZmI0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hS4Dz87diMd3IRSuhJ/giphy.gif" width="195" alt="Gear 5 Luffy"/>
+<img align="right" src="https://raw.githubusercontent.com/AdityaBadgujar/AdityaBadgujar/main/assets/gear5-luffy.gif" width="195" alt="Gear 5 Luffy"/>
 
 When I'm not shipping, I'm in the Grand Line.
 
