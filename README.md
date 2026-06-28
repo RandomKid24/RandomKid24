@@ -5,11 +5,10 @@
 <p>Full-Stack Developer from India &nbsp;·&nbsp; Django &nbsp;·&nbsp; React &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Flutter</p>
 
 <p>
-  <a href="mailto:aditya@beforth.in"><img src="https://img.shields.io/badge/📧 EMAIL-aditya%40beforth.in-0a0a12?style=flat-square&logoColor=white"/></a>&nbsp;
+  <a href="mailto:aditya.badgujar@beforth.in"><img src="https://img.shields.io/badge/📧 EMAIL-aditya.badgujar%40beforth.in-0a0a12?style=flat-square&logoColor=white"/></a>&nbsp;
   <a href="https://beforth.in"><img src="https://img.shields.io/badge/🌐 BEFORTH.IN-website-0a0a12?style=flat-square"/></a>&nbsp;
   <a href="https://linkedin.com/in/adityabadgujar"><img src="https://img.shields.io/badge/LinkedIn-adityabadgujar-0a0a12?style=flat-square&logo=linkedin&logoColor=0A66C2"/></a>&nbsp;
-  <a href="https://adityabadgujar.dev"><img src="https://img.shields.io/badge/Portfolio-adityabadgujar.dev-0a0a12?style=flat-square&logo=safari&logoColor=white"/></a>&nbsp;
-  <a href="https://twitter.com/adityabadgujar"><img src="https://img.shields.io/badge/Twitter-@adityabadgujar-0a0a12?style=flat-square&logo=x&logoColor=white"/></a>
+  <a href="https://adityabadgujar.dev"><img src="https://img.shields.io/badge/Portfolio-adityabadgujar.dev-0a0a12?style=flat-square&logo=safari&logoColor=white"/></a>
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AdityaBadgujar&style=flat-square&color=00FFC2&label=profile+views&labelColor=0a0a12)
@@ -44,7 +43,7 @@
 
 **Let's connect**
 
-- Email: [aditya@beforth.in](mailto:aditya@beforth.in)
+- Email: [aditya.badgujar@beforth.in](mailto:aditya.badgujar@beforth.in)
 - Website: [beforth.in](https://beforth.in)
 - LinkedIn: [adityabadgujar](https://linkedin.com/in/adityabadgujar)
 
