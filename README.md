@@ -67,24 +67,6 @@
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AdityaBadgujar&show_icons=true&theme=transparent&hide_border=true&title_color=00FFC2&text_color=888899&icon_color=B57BFF&bg_color=00000000&count_private=true&rank_icon=github&include_all_commits=true"/>
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaBadgujar&layout=compact&theme=transparent&hide_border=true&title_color=00FFC2&text_color=888899&bg_color=00000000&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AdityaBadgujar&theme=transparent&hide_border=true&ring=00FFC2&fire=B57BFF&currStreakLabel=00FFC2&sideLabels=888899&dates=555566&background=00000000&stroke=ffffff11&currStreakNum=ffffff&sideNums=ffffff" width="60%"/>
-
-</div>
-
----
-
 <div align="center">
 
 <sub>Nashik, Maharashtra, India · Building in prod. Always.</sub>
