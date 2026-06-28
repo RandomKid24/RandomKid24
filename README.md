@@ -1,5 +1,3 @@
-<!-- Profile README — AdityaBadgujar -->
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=0&pause=99999&color=00FFC2&center=true&vCenter=true&repeat=false&width=580&lines=%24+whoami+--verbose" alt="whoami"/>
@@ -20,7 +18,7 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/aditya%40beforth.in-0a0a12?style=flat-square&logo=gmail&logoColor=00FFC2)](mailto:aditya.badguajar@beforth.in)&ensp;
+[![Email](https://img.shields.io/badge/aditya%40beforth.in-0a0a12?style=flat-square&logo=gmail&logoColor=00FFC2)](mailto:aditya@beforth.in)&ensp;
 [![BeForth](https://img.shields.io/badge/beforth.in-0a0a12?style=flat-square&logo=vercel&logoColor=B57BFF)](https://beforth.in)&ensp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a12?style=flat-square&logo=linkedin&logoColor=00FFC2)](https://linkedin.com/in/adityabadgujar)&ensp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-0a0a12?style=flat-square&logo=safari&logoColor=B57BFF)](https://adityabadgujar.dev)&ensp;
@@ -32,11 +30,11 @@
 
 ---
 
-## `// what I actually do`
+## `// what I do`
 
-I build **custom software products** for Indian businesses — HRMS, CRM, ERP, POS — things that run real operations, not demos. Design quality is non-negotiable in every layer of the stack. I care about the terminal as much as the pixel.
+I build **custom software products** for Indian businesses — HRMS, CRM, ERP, POS — things that run real operations, not demos. Design quality is non-negotiable at every layer of the stack. I care about the terminal as much as the pixel.
 
-When I'm not building at [BeForth](https://beforth.in), I'm debugging something cursed in Electron, tuning ENB presets in Skyrim, or going down a One Piece rabbit hole.
+Founder of [BeForth](https://beforth.in). When I'm not shipping, I'm debugging something cursed in Electron or tuning ENB presets in Skyrim.
 
 ---
 
@@ -74,15 +72,16 @@ When I'm not building at [BeForth](https://beforth.in), I'm debugging something 
 
 ---
 
-## `// selected projects`
+## `// selected work`
 
-> Real work. Real clients. No lorem ipsum.
+> Real clients. Real operations. No lorem ipsum.
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### BeForth Platform &nbsp;&nbsp;`Flagship · Active`
+**BeForth Platform** &nbsp;`Flagship · Active`
+
 Full-stack software suite for Indian SMBs — HRMS, CRM, ERP, POS. Built and maintained at [beforth.in](https://beforth.in). Design-led, ops-focused.
 
 `Django` `FastAPI` `React` `TypeScript` `PostgreSQL`
@@ -90,8 +89,9 @@ Full-stack software suite for Indian SMBs — HRMS, CRM, ERP, POS. Built and mai
 </td>
 <td width="50%" valign="top">
 
-### TunnelGate &nbsp;&nbsp;`Electron · Native`
-RDP session manager over Cloudflare tunnels. Embeds FreeRDP as a native C++ addon. CI/CD on GitHub Actions.
+**TunnelGate** &nbsp;`Electron · Native`
+
+One-click RDP session manager over Cloudflare tunnels. FreeRDP embedded as a native C++ addon. CI/CD matrix via GitHub Actions.
 
 `Electron` `C++` `Node.js` `Cloudflare`
 
@@ -100,15 +100,17 @@ RDP session manager over Cloudflare tunnels. Embeds FreeRDP as a native C++ addo
 <tr>
 <td width="50%" valign="top">
 
-### AU Marketing CRM &nbsp;&nbsp;`Enterprise · In Prod`
-Full CRM with RBAC, audit log, DataTable redesign, notification system, exhibition/roadshow workflows, and dashboard reporting.
+**AU Marketing CRM** &nbsp;`Enterprise · In Prod`
+
+Full CRM with RBAC, audit log, DataTable, notification system, exhibition/roadshow workflows, and dashboard reporting.
 
 `React` `TypeScript` `Django` `PostgreSQL`
 
 </td>
 <td width="50%" valign="top">
 
-### CardSnap &nbsp;&nbsp;`Flutter · ML`
+**CardSnap** &nbsp;`Flutter · ML`
+
 Business card scanner with ML Kit OCR, custom NER parsing pipeline, and GPT fallback for edge cases.
 
 `Flutter` `ML Kit` `GPT API` `Dart`
@@ -119,44 +121,14 @@ Business card scanner with ML Kit OCR, custom NER parsing pipeline, and GPT fall
 
 ---
 
-## `// contribution graph`
+## `// github stats`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaBadgujar&bg_color=0a0a12&color=444455&line=00FFC2&point=B57BFF&area=true&area_color=00FFC210&hide_border=true&radius=4" width="100%"/>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/AdityaBadgujar/AdityaBadgujar/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdityaBadgujar/AdityaBadgujar/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/AdityaBadgujar/AdityaBadgujar/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
-</div>
-
----
-
-## `// stats`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AdityaBadgujar&show_icons=true&theme=transparent&hide_border=true&title_color=00FFC2&text_color=777788&icon_color=B57BFF&bg_color=00000000&count_private=true&rank_icon=github&include_all_commits=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=AdityaBadgujar&show_icons=true&theme=transparent&hide_border=true&title_color=00FFC2&text_color=777788&icon_color=B57BFF&bg_color=00000000&count_private=true&rank_icon=github&include_all_commits=true"/>
 &ensp;
-<img height="165" src="https://streak-stats.demolab.com?user=AdityaBadgujar&theme=transparent&hide_border=true&ring=00FFC2&fire=B57BFF&currStreakLabel=00FFC2&sideLabels=777788&dates=444455&background=00000000&stroke=ffffff11&currStreakNum=ffffff&sideNums=ffffff"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaBadgujar&layout=compact&theme=transparent&hide_border=true&title_color=00FFC2&text_color=777788&bg_color=00000000&langs_count=8"/>
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaBadgujar&layout=compact&theme=transparent&hide_border=true&title_color=00FFC2&text_color=777788&bg_color=00000000&langs_count=8" height="140"/>
-
-</div>
-
----
-
-## `// trophies`
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AdityaBadgujar&theme=onestar&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" width="100%"/>
 </div>
 
 ---
