@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=0&pause=99999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&height=70&lines=Aditya+Badgujar" alt="Aditya Badgujar"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=0&pause=99999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=700&height=90&lines=Aditya+Badgujar" alt="Aditya Badgujar"/>
 
 <p>Full-Stack Dev &nbsp;·&nbsp; Founder @ BeForth &nbsp;·&nbsp; Nashik, India</p>
 
@@ -14,15 +14,11 @@
 
 ---
 
-## `// about`
-
 I run [BeForth](https://beforth.in) — a custom software company out of Nashik. We build HRMS, CRM, ERP, and POS systems for Indian businesses that need software built around how they actually work, not the other way around.
 
 I go end-to-end: Django APIs, React frontends, Flutter mobile, Electron desktop. Design quality is non-negotiable at any layer.
 
 ---
-
-## `// stack`
 
 <div align="center">
 
